@@ -1,7 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Instagram Demo](https://react-instagram-clone-55c8f.web.app/)
-[Firebase Link](https://firebase.google.com)
+Features:
+ - [Instagram Demo](https://react-instagram-clone-55c8f.web.app/)
+ - [Firebase Link](https://firebase.google.com)
 
 **Screenshot**
 ![screenshot](screen.png)
