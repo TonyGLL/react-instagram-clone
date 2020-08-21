@@ -1,0 +1,27 @@
+.post__main__section{
+    display: flex;
+    justify-content: center;
+    padding: 75px 20px;
+}
+
+.app__postsRight{
+    margin-left: 10px;
+}
+
+@media screen and (min-width: 768px){
+    .post__main__section{
+        padding: 75px 100px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .post__main__section{
+        padding: 75px 200px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .post__main__section{
+        padding: 75px 275px;
+    }
+}

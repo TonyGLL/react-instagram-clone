@@ -1,0 +1,30 @@
+.app__header{
+    display: flex;
+    position: fixed;
+    justify-content: space-between;
+    top: 0;
+    width: 100%;
+    background: white;
+    padding: 8px 20px;
+    border-bottom: 1px solid lightgrey;
+    object-fit: contain;
+    z-index: 10px;
+}
+
+@media screen and (min-width: 768px){
+    .app__header{
+        padding: 8px 100px;
+    }
+}
+
+@media screen and (min-width: 1024px){
+    .app__header{
+        padding: 8px 200px;
+    }
+}
+
+@media screen and (min-width: 1200px){
+    .app__header{
+        padding: 8px 275px;
+    }
+}

@@ -1,0 +1,8 @@
+.app__options{
+    cursor: pointer;
+}
+
+.app__signup{
+    display: flex;
+    justify-content: center;
+}
